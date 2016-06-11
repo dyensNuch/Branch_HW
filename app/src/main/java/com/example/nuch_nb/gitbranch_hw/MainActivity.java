@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
         int mDev = 99;
     }
 
+    public void methodfromFeate2(){
+        int mFeat2 = 2;
+    }
+
 }

@@ -14,7 +14,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void SetVariable(){
-        String strHello = "Hello";
+        String mstrHello = "Hello";
+
+        int mStart = 1;
 
     }
 }

@@ -12,4 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
         String mVersion = "Version1.0"; //from master git;
     }
+
+    public void methodfromGitDev(){
+        int mDev = 99;
+    }
+
 }

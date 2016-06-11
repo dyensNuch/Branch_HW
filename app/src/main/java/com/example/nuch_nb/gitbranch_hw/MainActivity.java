@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         String mVersion = "Version1.0"; //from master git;
     }
+
+    public void methodfromMaster1(){
+        String msg1 = "Version2.0";
+    }
 }

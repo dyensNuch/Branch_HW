@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
     public void methodfromMaster1(){
         String msg1 = "Version2.0";
     }
+
+    public void methodfromMaster10(){
+        String msg1 = "Version10.0";
+    }
 }

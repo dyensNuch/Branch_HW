@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
         int mDev = 99;
     }
 
+    public void methodfromGitDev_2(){
+        int mDev2 = 99;
+    }
+
 }

@@ -25,4 +25,7 @@ public class MainActivity extends AppCompatActivity {
         int mFeat1 = 2;
     }
 
+    public void newmethodAfterMergewithFeat1(){
+        int aftermerge = 1;
+    }
 }

@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
         int mDev2 = 99;
     }
 
+    public void methodfromFeate1(){
+        int mFeat1 = 2;
+    }
+
 }
